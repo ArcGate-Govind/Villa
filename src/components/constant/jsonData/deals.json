@@ -1,0 +1,42 @@
+[
+  {
+    "type": "apartment",
+    "flats": [
+      {
+        "total_flat_space": "185 m2",
+        "floor_number": "26th",
+        "number_of_rooms": 4,
+        "parking_available": true,
+        "payment_process":"bank",
+          "image_url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/deal-01.jpg"
+      }
+    ]
+  },
+  {
+    "type": "villa",
+    "flats": [
+      {
+        "total_flat_space": "300 m2",
+        "floor_number": "Ground",
+        "number_of_rooms": 5,
+        "parking_available": true,
+        "payment_process":"bank",
+        "image_url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/deal-02.jpg"
+      }
+    ]
+  },
+  {
+    "type": "penthouse",
+    "flats": [
+      {
+        "total_flat_space": "150 m2",
+        "floor_number": "Ground",
+        "number_of_rooms": 2,
+        "parking_available": false,
+        "payment_process":"bank",
+          "image_url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/deal-03.jpg"
+        }
+      
+    ]
+  }
+]

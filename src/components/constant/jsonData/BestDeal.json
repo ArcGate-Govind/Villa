@@ -1,0 +1,36 @@
+[
+    {
+      "id": "1",
+      "TotalFlatSpace":"185m2",
+      "Floornumber":"26th",
+      "Number_of_rooms":"4",
+      "Parking_Available":"Yes",
+      "Payment_Process" : "Bank",
+      "Extrainfo":"Extra Info About Property",
+      "Summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.When you need free CSS templates, you can simply type TemplateMo in any search engine website. In addition, you can type TemplateMo Portfolio, TemplateMo One Page Layouts, etc.",
+      "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/deal-01.jpg"
+    },
+    {
+        "id": "2",
+        "TotalFlatSpace":"250 m2",
+        "Floornumber":"26th",
+        "Number_of_rooms":"5",
+        "Parking_Available":"Yes",
+        "Payment_Process" : "Bank",
+        "Extrainfo":"Detail Info About Villa",
+        "Summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.When you need free CSS templates, you can simply type TemplateMo in any search engine website. In addition, you can type TemplateMo Portfolio, TemplateMo One Page Layouts, etc.",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/deal-02.jpg"
+    },
+      {
+        "id": "3",
+        "TotalFlatSpace":"320 m2",
+        "Floornumber":"34th",
+        "Number_of_rooms":"5",
+        "Parking_Available":"Yes",
+        "Payment_Process" : "Bank",
+        "Extrainfo":"Extra Info About Penthouse",
+        "Summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.When you need free CSS templates, you can simply type TemplateMo in any search engine website. In addition, you can type TemplateMo Portfolio, TemplateMo One Page Layouts, etc.",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/deal-03.jpg"
+      }
+   
+  ]

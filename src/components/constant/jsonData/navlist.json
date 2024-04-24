@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "id": "2",
+      "title": "Properties",
+      "url": "/properties"
+    },
+    {
+      "id": "3",
+      "title": "Properties Details",
+      "url": "/propertiesDetails"
+    },
+    {
+      "id": "4",
+      "title": "Contact Us",
+      "url": "contactUs"
+    }
+   
+  ]

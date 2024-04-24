@@ -1,0 +1,78 @@
+[
+    {
+      "id": "1",
+      "type":"Luxury Villa",
+      "price":"$2.264.000",
+      "address":"18 New Street Miami, OR 97219",
+      "Bedrooms":8,
+      "Bathrooms":8,
+      "Area":" 545m2",
+      "Floor":3,
+      "Parking": "6 spots",
+      "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-01.jpg"
+    },
+    {
+        "id": "2",
+        "type":"Luxury Villa",
+        "price":"$1.180.000  ",
+        "address":"154 Mid Street Florida, OR 27001",
+        "Bedrooms":6,
+        "Bathrooms":5,
+        "Area":" 450m2",
+        "Floor":8,
+        "Parking": "3 spots",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-02.jpg"
+      },
+      {
+        "id": "3",
+        "type":"Luxury Villa",
+        "price":"$1.460.000",
+        "address":"26 Old Street Miami, OR 38540",
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Area":" 225m2",
+        "Floor":3,
+        "Parking": "10 spots",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-03.jpg"
+      },
+      {
+        "id": "4",
+        "type":"Apartment",
+        "price":"$584.500",
+        "address":"12 New Street Miami, OR 12650",
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Area":" 125m2",
+        "Floor":25,
+        "Parking": "2 cars",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-04.jpg"
+      },
+      {
+        "id": "5",
+        "type":"Penthouse",
+        "price":"$925.600",
+        "address":"34 Beach Street Miami, OR 42680",
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Area":" 180m2",
+        "Floor":38,
+        "Parking": "2 cars",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-05.jpg"
+      },
+      {
+        "id": "5",
+        "type":"Modern Condo",
+        "price":"$450.000",
+        "address":"22 New Street Portland, OR 16540",
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Area":" 165m2",
+        "Floor":26,
+        "Parking": "3 cars",
+        "url": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-06.jpg"
+      }
+   
+   
+
+   
+  ]
